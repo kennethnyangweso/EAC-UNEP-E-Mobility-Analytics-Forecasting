@@ -1,0 +1,6 @@
+country_iso,country_name,ev_market_stage,primary_segment,charging_infrastructure,data_availability,key_barrier,key_opportunity,notes
+TZ,Tanzania,Early growth,2W and 3W,Sparse but expanding,Low,Registration enforcement gap,Urban 2W electrification,10k+ estimate; EWURA guidelines 2026
+BI,Burundi,Nascent,All,Minimal,None,No grid access,Policy framework in place,ICE import ban planned 2027
+SS,South Sudan,Nascent,All,None,None,No grid access,Hybrid bridge,Hybrids preferred; no EV policy
+CD,DR Congo,Nascent,All,Minimal,None,No grid access,Hydro-powered charging,No EV policy; SNEL grid mostly hydro
+SO,Somalia,Nascent,All,None,None,No grid access,Private sector imports,Small-scale importers; no government policy

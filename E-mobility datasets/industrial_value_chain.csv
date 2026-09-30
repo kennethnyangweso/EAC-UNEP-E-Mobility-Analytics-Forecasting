@@ -1,0 +1,12 @@
+country_iso,year,value_chain_stage,company_name,capacity_units_year,employment_count,year_established,local_content_pct,data_source,notes
+KE,2024,assembly,ROAM Motors,5000,250,2017,15,ROAM,
+KE,2024,assembly,Arc Ride,3000,150,2020,12,Arc Ride,
+KE,2024,battery,Powerhive,2000,120,2015,10,Powerhive,
+RW,2024,assembly,Ampersand,10000,400,2016,20,Ampersand,
+RW,2024,assembly,Volt Rwanda,2000,100,2019,15,Volt Rwanda,
+UG,2024,assembly,Zembo,8000,300,2016,25,Zembo,
+UG,2024,assembly,Bodawerk,5000,200,2014,20,Bodawerk,
+UG,2024,recycling,,500,50,2023,0,AfEMA,
+TZ,2026,assembly,Spiro,,,,,Daily News,
+TZ,2026,assembly,TankVolt,,,,,Daily News,Chinese subsidiary of Transsion Holdings
+TZ,2026,assembly,Alpha E-Mobility,,,,,Daily News,Canadian tri-cycle company

@@ -1,0 +1,8 @@
+country_iso,year,financing_type,recipient,vehicle_segment,amount_usd,source_institution,data_source,notes
+KE,2024,concessional,private,2W,5000000,AfDB,AfDB,
+KE,2024,blended,informal,2W,2000000,FSD Kenya,FSD Kenya,
+RW,2024,guarantee,private,passenger,3000000,World Bank,World Bank,
+RW,2024,blended,private,2W,4000000,BRD,BRD,
+UG,2024,PAYG,informal,2W,1500000,Zembo,Zembo,
+TZ,2026,grant,mixed,all,872580,EU EVOLVE Programme,EU,Supports 23 e-mobility enterprises
+TZ,2026,guarantee,private,3W,,REEEP/Soaring,REEEP,First loan for solar e-trikes in Arusha

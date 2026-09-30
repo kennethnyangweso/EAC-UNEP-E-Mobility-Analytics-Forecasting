@@ -1,0 +1,31 @@
+station name,provider,county/region,coordinates,charger types,number of ports,pricing,payment methods,car models supported,operating hours,status,average rating
+WAGA Motion Charging Station – Sinza Afrika Sana,WAGA Motion Limited,Dar es Salaam,"-6.7915, 39.2312",AC Type 2,2,"1,200 TZS/kWh","Mobile Money (M-Pesa, Tigo Pesa), Airtel Money","Nissan Leaf, BYD Atto 3, Hyundai Ioniq, Universal Type 2 EVs",24/7,Operational,5.0
+HASACOM Charging Station – India Street,HASACOM,Dar es Salaam,"-6.8162, 39.2843","AC Type 2, DC Fast (CCS2)",4,"1,500 TZS/kWh","Credit/Debit Card, Mobile Money","BYD, Tesla (with adapter), Nissan Leaf, Audi e-tron",24/7,Operational,5.0
+WAGA Motion HQ Hub – Morocco Square,WAGA Motion Limited,Dar es Salaam,"-6.7845, 39.2638",AC Type 2,2,"1,200 TZS/kWh","Mobile Money, WAGA App","Nissan Leaf, BYD, Hyundai",08:30 - 17:00 (Mon-Sat),Operational,4.7
+TANESCO Regional Headquarters Charging Hub,TANESCO / Autel Energy,Dodoma,"-6.1732, 35.7481",AC Type 2,2,Free Pilot Phase,TANESCO Token / Mobile Money,"Universal Type 2 EVs, Electric Safari Vehicles",24/7,Operational,4.8
+TANESCO Regional Office Charging Station – Arusha,TANESCO / Autel Energy,Arusha,"-3.3731, 36.6853","AC Type 2, DC Fast (Solar)",2,Free Pilot Phase,Mobile Money,"Electric Safari Vehicles, BYD, Nissan Leaf",24/7,Operational,4.5
+TANESCO Regional Office Charging Station – Morogoro,TANESCO / Autel Energy,Morogoro,"-6.8224, 37.6612",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,4.2
+TANESCO Regional Office Charging Station – Mwanza,TANESCO / Autel Energy,Mwanza,"-2.5164, 32.9012",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,4.1
+TANESCO Regional Office Charging Station – Kilimanjaro,TANESCO / Autel Energy,Kilimanjaro (Moshi),"-3.3349, 37.3404",AC Type 2,2,Free Pilot Phase,Mobile Money,"Electric Safari Vehicles, Universal Type 2 EVs",24/7,Operational,4.6
+TANESCO Regional Office Charging Station – Tanga,TANESCO / Autel Energy,Tanga,"-5.0689, 39.0988",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,4.0
+TANESCO Regional Office Charging Station – Mbeya,TANESCO / Autel Energy,Mbeya,"-8.9094, 33.4608",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,4.3
+TANESCO Regional Office Charging Station – Iringa,TANESCO / Autel Energy,Iringa,"-7.7731, 35.6994",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,4.4
+TANESCO Regional Office Charging Station – Tabora,TANESCO / Autel Energy,Tabora,"-5.0167, 32.8000",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,3.9
+TANESCO Regional Office Charging Station – Kigoma,TANESCO / Autel Energy,Kigoma,"-4.8769, 29.6267",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,3.8
+TANESCO Regional Office Charging Station – Shinyanga,TANESCO / Autel Energy,Shinyanga,"-3.6619, 33.4214",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,4.0
+TANESCO Regional Office Charging Station – Kagera,TANESCO / Autel Energy,Kagera (Bukoba),"-1.3324, 31.8122",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,4.1
+TANESCO Regional Office Charging Station – Mara,TANESCO / Autel Energy,Mara (Musoma),"-1.5004, 33.8052",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,3.7
+TANESCO Regional Office Charging Station – Manyara,TANESCO / Autel Energy,Manyara (Babati),"-4.2144, 35.7512",AC Type 2,2,Free Pilot Phase,Mobile Money,"Electric Safari Vehicles, Universal Type 2 EVs",24/7,Operational,4.5
+TANESCO Regional Office Charging Station – Singida,TANESCO / Autel Energy,Singida,"-4.8152, 34.7431",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,4.2
+TANESCO Regional Office Charging Station – Lindi,TANESCO / Autel Energy,Lindi,"-9.9972, 39.7142",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,3.9
+TANESCO Regional Office Charging Station – Mtwara,TANESCO / Autel Energy,Mtwara,"-10.2742, 40.1814",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,4.0
+TANESCO Regional Office Charging Station – Coast,TANESCO / Autel Energy,Pwani (Kibaha),"-6.7744, 38.9211",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,4.1
+TANESCO Regional Office Charging Station – Njombe,TANESCO / Autel Energy,Njombe,"-9.3333, 34.7667",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,4.2
+TANESCO Regional Office Charging Station – Katavi,TANESCO / Autel Energy,Katavi (Mpanda),"-6.3421, 31.0664",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,3.6
+TANESCO Regional Office Charging Station – Geita,TANESCO / Autel Energy,Geita,"-2.8724, 32.2341",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,4.0
+TANESCO Regional Office Charging Station – Simiyu,TANESCO / Autel Energy,Simiyu (Bariadi),"-2.7944, 33.9872",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,3.5
+TANESCO Regional Office Charging Station – Songwe,TANESCO / Autel Energy,Songwe (Vwawa),"-9.1124, 32.9341",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,3.8
+TANESCO Regional Office Charging Station – Ruvuma,TANESCO / Autel Energy,Ruvuma (Songea),"-10.6833, 35.6500",AC Type 2,2,Free Pilot Phase,Mobile Money,Universal Type 2 EVs,24/7,Operational,4.1
+Kaengesa Electric Vehicle Charging Station,Independent / Local Utility,Rukwa (Sumbawanga),"-7.9541, 31.6214",AC Type 2,20,"1,100 TZS/kWh","Cash, Mobile Money",Universal Type 2 EVs,06:00 - 22:00,Operational,1.0
+ZECO Head Office Charging Station – Malindi,Zanzibar Electricity Corporation,Zanzibar (Unguja),"-6.1554, 39.1922",AC Type 2,2,"1,400 TZS/kWh","Mobile Money, ZECO Portal",Universal Type 2 EVs,24/7,Operational,4.6
+ZECO Regional Office Charging Station – Chake Chake,Zanzibar Electricity Corporation,Zanzibar (Pemba),"-5.2442, 39.7681",AC Type 2,2,"1,400 TZS/kWh",Mobile Money,Universal Type 2 EVs,24/7,Operational,4.2

@@ -1,0 +1,9 @@
+country_iso,year,vehicle_segment,duty_rate_ice,duty_rate_ev,vat_rate_ice,vat_rate_ev,data_source,notes
+KE,2024,all,25,10,16,0,Kenya Gazette,
+RW,2024,all,25,0,18,0,RRA,
+UG,2024,all,25,0,18,0,URA,
+TZ,2024,all,25,10,18,0,TRA,
+BI,2024,all,,,,,OBR,VAT and customs exempt
+SS,2024,all,,,,,Ministry of Transport,No EV-specific tariff
+CD,2024,all,,,,,Ministry of Transport,No EV-specific tariff
+SO,2024,all,,,,,Ministry of Transport,No EV-specific tariff

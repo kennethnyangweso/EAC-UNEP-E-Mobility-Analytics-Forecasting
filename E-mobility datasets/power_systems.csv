@@ -1,0 +1,9 @@
+country_iso,year,installed_capacity_mw,generation_hydro_pct,generation_solar_pct,generation_wind_pct,generation_thermal_pct,generation_other_pct,national_access_rate,urban_access_rate,rural_access_rate,peak_demand_mw,reserve_margin_pct,grid_emission_factor,data_source
+KE,2024,3100.5,35,25,15,20,5,76,95,55,2200,40,0.15,EPRA/KPLC
+RW,2024,195.0,45,10,5,35,5,65,90,45,150,30,0.35,REG
+UG,2024,1250.0,80,5,0,15,0,45,85,30,900,38,0.12,UETCL
+TZ,2024,3000.0,40,5,2,50,3,40,80,25,2000,50,0.45,TANESCO
+BI,2024,100.0,90,2,0,8,0,12,50,5,80,25,0.08,REGIDESO
+SS,2024,150.0,0,10,0,90,0,8,30,2,120,25,0.75,SSEC
+CD,2024,2900.0,95,1,0,4,0,20,60,5,1800,60,0.05,SNEL
+SO,2024,120.0,0,15,5,80,0,15,40,5,100,20,0.70,Private operators

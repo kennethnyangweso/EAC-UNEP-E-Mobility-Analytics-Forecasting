@@ -1,0 +1,33 @@
+station name,provider,county/region,coordinates,charger types,number of ports,pricing,payment methods,car models supported,operating hours,status,average rating
+Amber House Station,Ministry of Energy / Spiro,Kampala Central,"0.3150, 32.5815","DC Fast, AC Type 2, Battery Swap","4 car ports, multi-swap","~1,000 - 1,500 UGX/kWh","Mobile Money, RFID","Kiira EV, Nissan Leaf, BYD",24/7,Operational,4.5
+Kampala Central Fast Charger,Spiro / Independent,Kampala Central,"0.3122, 32.5794","DC Fast, AC Type 2",2 car ports,"~1,200 UGX/kWh","Mobile Money, Cash",Universal Type 2 / CCS2 EVs,24/7,Operational,4.2
+Acacia Avenue Station,Private / Fleet Shared,Kampala (Kololo),"0.3345, 32.5878",AC Type 2,2 car ports,Varies / Subscription,"Mobile Money, App",Type 2 compatible EVs,06:00 - 22:00,Operational,4.0
+Arena Mall Charging Point,Commercial Hub,Kampala (Nsambya),"0.3012, 32.5891",AC Level 2,2 car ports,Free for patrons,N/A,Universal Type 2 EVs,08:00 - 22:00,Operational,4.3
+Kasowa EV Station,Spiro,Wakiso / Kasowa,"0.4055, 32.5402","AC Level 2, Battery Swap","1 car port, multi-swap",Swap tariff,"Mobile Money, App","Spiro E-motorcycles, Select EVs",07:00 - 21:00,Operational,4.1
+Nakifuma EV Station,Spiro,Mukono / Nakifuma,"0.4121, 32.7844","AC Level 2, Battery Swap",Multi-swap cabinet,Per swap tariff,Mobile Money,Electric Motorcycles (2-Wheelers),07:00 - 20:00,Operational,4.0
+Kayunga EV Station,Spiro,Kayunga,"0.7021, 32.9011",Battery Swap,Multi-swap cabinet,Per swap tariff,Mobile Money,Electric Motorcycles,07:00 - 20:00,Operational,3.9
+Jinja Hub,Spiro,Jinja (Nizam Rd),"0.4244, 33.2041",Battery Swap,Multi-swap cabinet,Per swap tariff,"Mobile Money, RFID",Electric Motorcycles,24/7,Operational,4.6
+Makerere Hub,Zembo,Kampala (Gadafi Rd),"0.3292, 32.5694",Solar Battery Swap,Multi-swap cabinet,"~4,000 - 5,000 UGX/swap","Mobile Money, Zembo Wallet",Zembo E-motorcycles,06:00 - 22:00,Operational,4.4
+Nateete Hub,Zembo,Kampala (Nateete),"0.2981, 32.5321",Battery Swap,Multi-swap cabinet,"~4,000 - 5,000 UGX/swap",Mobile Money,Zembo E-motorcycles,06:00 - 22:00,Operational,4.2
+Entebbe Road Hub,Spiro,Wakiso (Lweza),"0.2451, 32.5592",Battery Swap,Multi-swap cabinet,Per swap tariff,Mobile Money,Spiro E-motorcycles,06:00 - 22:00,Operational,4.3
+Butikiro Road Hub,Spiro,Kampala Central,"0.3090, 32.5732",Battery Swap,Multi-swap cabinet,Per swap tariff,Mobile Money,Spiro E-motorcycles,06:00 - 21:00,Operational,4.1
+Kulambiro Hub,Spiro,Kampala (Kulambiro),"0.3642, 32.6105",Battery Swap,Multi-swap cabinet,Per swap tariff,Mobile Money,Spiro E-motorcycles,07:00 - 21:00,Operational,4.2
+Oryx Energies Bunga Hub,Spiro,Kampala (Bunga),"0.2810, 32.6201",Battery Swap,Multi-swap cabinet,Per swap tariff,"Mobile Money, Card",Spiro E-motorcycles,24/7,Operational,4.4
+Magambo Road Hub,Spiro,Kampala Central,"0.3201, 32.5912",Battery Swap,Multi-swap cabinet,Per swap tariff,Mobile Money,Spiro E-motorcycles,07:00 - 20:00,Operational,4.0
+Sentema Road Hub,Spiro,Kampala (Rubaga),"0.3215, 32.5412",Battery Swap,Multi-swap cabinet,Per swap tariff,Mobile Money,Spiro E-motorcycles,06:00 - 22:00,Operational,4.2
+Waliggo Road Hub,Spiro,Kampala,"0.3512, 32.5991",Battery Swap,Multi-swap cabinet,Per swap tariff,Mobile Money,Spiro E-motorcycles,07:00 - 21:00,Operational,4.1
+Buwate Road Hub,Spiro,Wakiso (Buwate),"0.3912, 32.6310",Battery Swap,Multi-swap cabinet,Per swap tariff,Mobile Money,Spiro E-motorcycles,07:00 - 20:00,Operational,4.0
+Kira Road Hub,Spiro,Kampala (Kira Rd),"0.3391, 32.5955",Battery Swap,Multi-swap cabinet,Per swap tariff,Mobile Money,Spiro E-motorcycles,24/7,Operational,4.5
+Mount Meru Fueling Hub,Spiro,Kampala Central,"0.3110, 32.5840",Battery Swap,Multi-swap cabinet,Per swap tariff,Mobile Money,Spiro E-motorcycles,24/7,Operational,4.3
+Kamwokya Hub,Zembo,Kampala (Kamwokya),"0.3372, 32.5884",Battery Swap,Multi-swap cabinet,"~4,500 UGX/swap",Mobile Money,Zembo E-motorcycles,06:00 - 22:00,Operational,4.3
+Matugga Hub,Zembo,Wakiso (Matugga),"0.4520, 32.5180",Battery Swap,Multi-swap cabinet,"~4,500 UGX/swap",Mobile Money,Zembo E-motorcycles,07:00 - 21:00,Operational,4.1
+Watu & Gogo Swap Station,Watu / Gogo,Luwero,"0.8351, 32.4981",Battery Swap,Multi-swap cabinet,Subscription based,Mobile Money,Gogo E-bikes,07:00 - 19:00,Operational,4.1
+Buloba Mocoo Station,Mocoo,Wakiso (Mityana Rd),"0.3199, 32.4510",Battery Swap,Multi-swap cabinet,Per swap tariff,"Mobile Money, Cash",Mocoo E-motorcycles,06:30 - 21:30,Operational,4.3
+Kireka Mocoo Station,Mocoo,Kampala (Banda),"0.3470, 32.6321",Battery Swap,Multi-swap cabinet,Per swap tariff,Mobile Money,Mocoo E-motorcycles,06:00 - 22:00,Operational,4.2
+Bombo Mocoo Station,Mocoo,Luwero (Bombo),"0.5821, 32.5342",Battery Swap,Multi-swap cabinet,Per swap tariff,Mobile Money,Mocoo E-motorcycles,07:00 - 20:00,Operational,4.0
+Mukono Town Hub,Zembo,Mukono Central,"0.3540, 32.7485",Battery Swap,Multi-swap cabinet,"~4,500 UGX/swap",Mobile Money,Zembo E-motorcycles,06:00 - 22:00,Operational,4.4
+Entebbe Town Express Hub,Spiro,Wakiso (Entebbe),"0.0612, 32.4721","Battery Swap, AC L2","1 car port, multi-swap",Per swap / tariff,Mobile Money,"Spiro E-motorcycles, Light EVs",24/7,Operational,4.6
+Mbarara Highway Station,Independent / Private,Mbarara Central,"-0.6120, 30.6550",AC Type 2,1 car port,Varies,Mobile Money,Universal Type 2 EVs,07:00 - 21:00,Operational,3.8
+Lugogo Mall Parking Station,Commercial Hub,Kampala (Lugogo),"0.3280, 32.6090",AC Level 2,2 car ports,Free for patrons,N/A,Universal Type 2 EVs,08:00 - 22:00,Operational,4.2
+Gulu Highway Swap Point,Gogo,Nakasongola,"1.3120, 32.4550",Battery Swap,Multi-swap cabinet,Subscription,Mobile Money,Gogo E-bikes,07:00 - 19:00,Operational,4.0
+Iganga Main Road Station,Spiro,Iganga Central,"0.6091, 33.4792",Battery Swap,Multi-swap cabinet,Per swap tariff,Mobile Money,Spiro E-motorcycles,07:00 - 20:00,Operational,4.1

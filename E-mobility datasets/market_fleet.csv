@@ -1,0 +1,21 @@
+country_iso,year,vehicle_segment,propulsion_type,new_registrations,cumulative_stock,data_source,data_confidence,notes
+KE,2020,all,BEV,,300,EPRA,high,Baseline
+KE,2021,all,BEV,,584,EPRA,high,
+KE,2022,all,BEV,,1059,EPRA,high,
+KE,2023,all,BEV,,3753,EPRA,high,
+KE,2024,all,BEV,,5294,EPRA,high,
+KE,2025,all,BEV,,6442,EPRA,high,As of June 2025
+RW,2020,passenger,BEV,19,19,RRA,high,
+RW,2021,passenger,BEV,19,38,RRA,high,
+RW,2021,passenger,HEV,28,28,RRA,high,
+RW,2022,passenger,BEV,96,134,RRA,high,
+RW,2022,passenger,HEV,492,520,RRA,high,
+RW,2023,passenger,BEV,,103,RRA,high,
+RW,2023,passenger,HEV,,2386,RRA,high,
+RW,2024,passenger,BEV,409,512,RRA,high,
+RW,2024,passenger,HEV,4274,6660,RRA,high,
+UG,2020,all,BEV,,47,AfEMA,medium,
+UG,2025,2W,BEV,,3000,Ministry of Works,medium,E-motorcycles
+UG,2025,all,BEV,,3400,AfEMA,medium,Cumulative
+TZ,2025,2W,BEV,,10000,AfEMA/EWURA,medium,Estimated; no official registration system
+TZ,2025,3W,BEV,,,AfEMA/EWURA,medium,Included in 10k combined 2W/3W figure
