@@ -1,0 +1,13 @@
+Country,Year,"Access to Finance
+(Borrowed any money 
+from a formal financial institution 
+or using a mobile money account (% age 15+))","Scoring:
+Low:<20%, Medium: 20-40%, High: >40%",Score,Source
+Burundi,2014.0,Not Found,Not Found,Not Found,
+DR Congo,2022.0,0.05,Low,0.3333333333,
+Kenya,2021.0,0.4,High,1,
+Rwanda,2017.0,Not Found,Not Found,Not Found,
+Somalia,2014.0,Not Found,Not Found,Not Found,
+South Sudan,2021.0,0.03,Low,0.3333333333,
+Tanzania,2021.0,0.13,Low,0.3333333333,
+Uganda,2021.0,0.29,Medium,0.6666666667,

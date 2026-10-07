@@ -1,0 +1,21 @@
+Country,"Percent of firms 
+experiencing electrical outages","Number of electrical 
+outages in a typical month","If there were outages, 
+average duration of 
+a typical electrical outage (hours)","Average time without 
+electricity (hours) in a typical month","Yearly average 
+time without electricity (hours)","Scoring:
+WBES: Low: 250+, Medium: 50-249, High:<50
+SAIDI: Low: 20+, Medium: 5-20, High: 0-5",Score - WBES only,WBES dates,SAIDI dates,"WBES & SAIDI
+Criteria:
+Use SAIDI data if Enterprise data is missing, 
+Enterprise data is from 2010 or before, and a more recent SAIDI value is available, otherwise Enterprise data is used","Score
+WBES & SAIDI",Source(s),DIVIDER,WB SAIDI (2014-2019),WB SAIDI (added June 11th),WB SAIDI source 
+Burundi,85.1,16.6,4.8,79.68,956.16,Low reliability,0.3333333333,2014,2014,956.16,0.3333333333,,,660,660,
+DR Congo,89.3,12.3,5.6,68.88,826.56,Low reliability,0.3333333333,2013,Not Found,826.56,0.3333333333,,,Not Found,Not Found,
+Kenya,82.8,3.8,5.8,22.04,264.48,Low reliability,0.3333333333,2018,2019,264.48,0.3333333333,,,12,12,
+Rwanda,60.6,1.8,4.5,8.1,97.2,Medium reliability,0.6666666667,2023,2019,97.2,0.6666666667,,,2.8,2.8,
+Somalia,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,,,Not Found,Not Found,
+South Sudan,15.3,1.5,4.7,7.05,84.6,Medium reliability,0.6666666667,2014,2014,84.6,0.6666666667,,,1000,1000,
+Tanzania,34.1,0.7,6.4,4.48,53.76,Medium reliability,0.6666666667,2023,2019,53.76,0.6666666667,,,20.9,20.9,
+Uganda,81.5,6.3,10.1,63.63,763.56,Low reliability,0.3333333333,2013,2019,763.56,0.3333333333,,,61.7,61.7,

@@ -1,0 +1,10 @@
+Country,Commercial electricity price ($/kWh) - 2022,Gasoline pump price ($/L) - 2022,ICE fuel cost,EV fuel cost,EV Charging Relative Affordability,"Scoring: 
+EV pricier (>1) Comparable (0.75-1) , EV cheaper (<0.75)",Score,Source(s)
+Burundi,0.158,1.409,17.205299,4.97637116,0.2892347968,EV cheaper,1.0,
+DR Congo,0.078,1.208,14.750888,2.45668956,0.1665451978,EV cheaper,1.0,
+Kenya,0.143,1.352,16.509272,4.50393086,0.2728122027,EV cheaper,1.0,
+Rwanda,0.081,1.376,16.802336,2.55117762,0.1518346985,EV cheaper,1.0,
+Somalia,0.079,1.03,12.57733,2.48818558,0.1978309848,EV cheaper,1.0,
+South Sudan,0.42,1.4,17.0953999999999,13.2283284,0.7737946114,Comparable,0.6666666667,
+Tanzania,0.095,1.28,15.63008,2.9921219,0.1914335627,EV cheaper,1.0,
+Uganda,0.13,1.274,15.556814,4.0944826,0.2631954461,EV cheaper,1.0,

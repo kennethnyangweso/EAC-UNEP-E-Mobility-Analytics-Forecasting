@@ -1,0 +1,10 @@
+Country,Gasoline_Diesel imports,Gasoline_Diesel Exports,Net imports,Final gasoline_diesel consumption transport,Net imports percent,Consumption/Net Imports,Exports/Imports,"Scoring:
+Low: <33.33%, Medium: 33.33-66.67%, High: >66.67%",Score(s),Source(s)
+Burundi,76.0,0,76.0,60,126.7,0.7894736842,0,High impact,1.0,
+DR Congo,1183.0,0,1183.0,1183,100.0,1.0,0,High impact,1.0,
+Kenya,4027.0,0,4027.0,3443,117.0,0.8549788925,0,High impact,1.0,
+Rwanda,352.0,98,254.0,188,135.1,0.7401574803,0.2784090909,High impact,1.0,
+Somalia,85.0,0,85.0,29,293.1,0.3411764706,0,Medium impact,0.6666666667,
+South Sudan,465.0,0,465.0,279,166.7,0.6,0,Medium impact,0.6666666667,
+Tanzania,2441.0,0,2441.0,2048,119.2,0.8390004097,0,High impact,1.0,
+Uganda,1741.0,0,1741.0,1203,144.7,0.6909821941,0,High impact,1.0,
