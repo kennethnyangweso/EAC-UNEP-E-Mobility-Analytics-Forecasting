@@ -1,0 +1,9 @@
+country_iso,country_name,eac_partner_state,accession_year,population,gdp_usd,currency_code,notes
+KE,Kenya,1,2000,55100586,113400000000,KES,Founding member
+RW,Rwanda,1,2007,14100000,14100000000,RWF,Member
+UG,Uganda,1,2000,48600000,49200000000,UGX,Founding member
+TZ,Tanzania,1,2000,67400000,79100000000,TZS,Founding member
+BI,Burundi,1,2007,13200000,3000000000,BIF,Member
+SS,South Sudan,1,2016,11000000,6500000000,SSP,Member
+CD,DR Congo,1,2022,102300000,66900000000,CDF,Joined 2022
+SO,Somalia,1,2024,18140000,10700000000,SOS,Joined 2024
