@@ -1,0 +1,10 @@
+Country,GNI per capita (2050),Rate of motorization (2050) (number of vehicles per 1000 people),"Scoring: 
+Low: <100, Medium: 100-200, High: >200",Score,Source - GNI,Source - Motorization Rate
+Burundi,510,22.9038429,Low motorization rate,0.3333333333,,
+DR Congo,927,37.65479681,Low motorization rate,0.3333333333,,
+Kenya,5830,173.878629,Medium motorization rate,0.6666666667,,
+Rwanda,3974,126.4059601,Medium motorization rate,0.6666666667,,
+Somalia,958,38.69956409,Low motorization rate,0.3333333333,,
+South Sudan,Not Found,Not Found,Not Found,Not Found,,
+Tanzania,3342,109.4418265,Medium motorization rate,0.6666666667,,
+Uganda,3220,106.1074933,Medium motorization rate,0.6666666667,,

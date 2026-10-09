@@ -1,0 +1,23 @@
+country_iso,year,enacted_policy_instrument,instrument_type,category,status,effective_date,vehicle_segment,description,data_source
+KE,2023,Finance Act 2023 EV VAT Exemption,fiscal,VAT,enacted,2023-07-01,all,Exempts EVs from 16% VAT,Kenya Gazette
+KE,2023,Finance Act 2023 EV Duty Reduction,fiscal,import_duty,enacted,2023-07-01,all,Reduces EV import duty from 25% to 10%,Kenya Gazette
+KE,2024,National E-Mobility Policy,regulatory,target,draft,2024-01-01,all,5% EV adoption by 2030,MoR&T
+KE,2024,EPRA Charging Infrastructure Guidelines,regulatory,standard,enacted,2024-03-01,all,Technical standards for charging stations,EPRA
+RW,2024,Rwanda EV Incentive Framework,fiscal,VAT,enacted,2024-01-01,all,EVs exempt from VAT and import duty,RRA
+RW,2025,Kigali ICE Motorcycle Ban,regulatory,ban,enacted,2025-01-01,2W,Bans new ICE motorcycle registrations in Kigali,RURA
+RW,2024,National E-Mobility Strategy,regulatory,target,enacted,2024-06-01,all,Targets 20% EV penetration by 2030,MININFRA
+UG,2024,National E-Mobility Strategy,regulatory,target,enacted,2024-06-01,2W,20% EV imports by 2030,MoWT
+UG,2024,EV Import Duty Exemption,fiscal,import_duty,enacted,2024-07-01,all,Full duty exemption for EVs,URA
+UG,2025,Kampala E-Motorcycle Mandate,regulatory,target,proposed,2026-01-01,2W,Proposed 100% electric motorcycle target,KCCA
+TZ,2024,Vehicle Registration Amendment,regulatory,standard,enacted,2024-07-01,all,Explicitly includes EVs in registration law,TRA
+TZ,2024,EV Import Duty Reduction,fiscal,import_duty,enacted,2024-07-01,all,Reduces EV duty from 25% to 10%,TRA
+TZ,2025,National EV Policy Framework,regulatory,target,enacted,2025-06-01,all,"Four-pillar framework: localize, scale, synergize, enable",Ministry of Transport
+TZ,2026,EWURA E-Mobility Guidelines,regulatory,standard,enacted,2026-01-01,all,Fast charging every 100km along corridors,EWURA
+BI,2027,ICE Vehicle Import Ban,regulatory,ban,announced,2027-01-01,all,Plans to ban ICE vehicle imports from 2027,Ministry of Environment
+BI,2024,EV VAT and Customs Exemption,fiscal,VAT,enacted,2024-01-01,all,EVs exempt from VAT and customs duty,OBR
+BI,2024,Solar Charging Station Pilot,regulatory,infrastructure,enacted,2024-06-01,all,First solar charging station in Bujumbura,Ministry of Energy
+SS,2024,No EV Policy,regulatory,absent,absent,,all,No dedicated EV policy framework,Ministry of Transport
+SS,2024,Hybrid Vehicle Preference,regulatory,informal,informal,,all,Hybrids preferred over pure EVs,Market analysis
+CD,2024,No EV Policy,regulatory,absent,absent,,all,No dedicated EV policy framework,Ministry of Transport
+SO,2024,No EV Policy,regulatory,absent,absent,,all,No dedicated EV policy framework,Ministry of Transport
+SO,2024,Nascent Import Market,regulatory,informal,informal,,all,Small-scale importers only; no incentives,Market analysis

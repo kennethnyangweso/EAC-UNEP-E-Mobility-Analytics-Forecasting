@@ -1,0 +1,6 @@
+country_iso,year,battery_chemistry,volume_units,collection_rate_pct,recycling_facility_count,regulatory_status,data_source,notes
+KE,2024,LFP,5000,10,1,draft,EPRA,No formal EPR
+KE,2024,lead_acid,15000,45,3,enacted,NEMA,Legacy ICE batteries
+RW,2024,LFP,3000,15,1,draft,REMA,unknown
+RW,2024,lead_acid,8000,40,2,enacted,REMA,Legacy ICE batteries
+UG,2024,lead_acid,12000,35,2,absent,NEMA,Legacy ICE batteries

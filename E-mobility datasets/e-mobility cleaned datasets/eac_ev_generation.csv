@@ -1,0 +1,10 @@
+Country,Percent added generation required 100% (GWh),Percent added generation required (GWh) (30%),Multiplication factor for 30% EVs,"Score: 
+Low readiness (25% +), Medium readiness (25%-10%), High readiness (10%-0) ",Score,"Updated data from May 27, 2024 ",Source
+Burundi,50.82536373,0.1524760912,1.152476091,Medium Expansion (medium readiness),0.6666666667,15.247609119766,
+DR Congo,50.19383692,0.1505815108,1.150581511,Medium Expansion (medium readiness),0.6666666667,15.0581510772104,
+Kenya,84.00454168,0.252013625,1.252013625,Large expansion (low readiness),0.3333333333,25.2013625031185,
+Rwanda,26.02035812,0.07806107435,1.078061074,Modest Expansion (high readiness),1.0,7.80610743535501,
+Somalia,23.13040577,0.06939121732,1.069391217,Modest Expansion (high readiness),1.0,6.93912173179026,
+South Sudan,175.1833799,0.5255501398,1.52555014,Large expansion (low readiness),0.3333333333,52.5550139829053,
+Tanzania,111.1639539,0.3334918617,1.333491862,Large expansion (low readiness),0.3333333333,33.349186167109,
+Uganda,82.2260744,0.2466782232,1.246678223,Medium Expansion (medium readiness),0.6666666667,24.6678223203947,
