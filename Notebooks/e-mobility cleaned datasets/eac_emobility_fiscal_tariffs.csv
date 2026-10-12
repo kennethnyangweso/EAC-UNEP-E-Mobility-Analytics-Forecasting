@@ -1,0 +1,9 @@
+Country,Import Duty (ICE),Import Duty (EV),Excise Duty (ICE),Excise Duty (EV),VAT Rate (ICE),VAT Rate (EV),Auxiliary Levies (ICE),Auxiliary Levies (EV)
+Kenya,35%,0%,27.5%,10%,16%,16%,"2.5% IDF, 2.0% RDL","2.5% IDF, 2.0% RDL"
+Tanzania,25%,25%,7.5%,0%,18%,18%,"2.0% RDL, 15% Age Levy",HIV Response Levy
+Uganda,25%,25%,10%,0%,18%,18%,"35% Env. Levy, 1.5% Infra Tax","1.5% Infra Tax, 6% WHT"
+Rwanda,25%,0%,10%,0%,18%,0%,"1.5% Infra Levy, 10% WHT",1.5% Infra Levy
+Burundi,70%,0%,15%,0%,17%,0%,4% Handling Fee,Exempt
+DR Congo,25%,0%,22.5%,0%,16%,0%,2% OCC Fee,2% OCC Fee
+South Sudan,25%,25%,15%,15%,20%,20%,Port/Registration fees,Port/Registration fees
+Somalia,25%,25%,20%,20%,16%,16%,Port/Municipal fees,Port/Municipal fees
