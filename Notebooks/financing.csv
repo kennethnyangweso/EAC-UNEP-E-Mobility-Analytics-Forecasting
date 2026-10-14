@@ -1,0 +1,17 @@
+Country,Vehicle_Class,Circular_Premium_Ratio,Asset_to_Waste_Financing_Ratio,EPR_Fund_Cap_Rate,Land_Footprint_Fin_Efficiency_USD_per_m2,Renewable_Co_Invest_Share,Second_Life_Amortization_Potential,LCOS_Second_Life_USD_per_kWh
+Kenya,2W/3W (Boda-boda/Tuk-tuk),0.076,6.4,0.025,269.7,0.355,0.112,0.08
+Kenya,Public Transit (Matatu/Bus),0.207,10.4,0.034,41.0,0.392,0.358,0.05
+Kenya,Commercial/Logistics,0.093,7.6,0.021,91.5,0.308,0.229,0.08
+Kenya,Private Passenger,0.057,13.8,0.015,116.5,0.257,0.170,0.09
+Uganda,2W/3W (Boda-boda/Tuk-tuk),0.091,4.1,0.022,184.1,0.323,0.176,0.12
+Uganda,Public Transit (Matatu/Bus),0.201,9.2,0.022,74.2,0.260,0.266,0.06
+Uganda,Commercial/Logistics,0.082,9.7,0.020,99.8,0.278,0.252,0.08
+Uganda,Private Passenger,0.059,17.8,0.022,155.2,0.279,0.210,0.10
+Tanzania,2W/3W (Boda-boda/Tuk-tuk),0.056,4.5,0.011,215.1,0.436,0.122,0.11
+Tanzania,Public Transit (Matatu/Bus),0.156,9.1,0.031,47.0,0.351,0.260,0.07
+Tanzania,Commercial/Logistics,0.134,7.6,0.015,108.9,0.377,0.273,0.08
+Tanzania,Private Passenger,0.054,14.2,0.012,149.0,0.225,0.183,0.07
+Rwanda,2W/3W (Boda-boda/Tuk-tuk),0.072,4.8,0.025,277.5,0.611,0.138,0.08
+Rwanda,Public Transit (Matatu/Bus),0.191,11.0,0.031,78.5,0.273,0.318,0.06
+Rwanda,Commercial/Logistics,0.082,7.3,0.016,98.2,0.279,0.251,0.09
+Rwanda,Private Passenger,0.062,14.5,0.021,98.3,0.115,0.179,0.07

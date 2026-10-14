@@ -1,0 +1,17 @@
+Country,Vehicle_Class,Local_Value_Added_Share_Pct,Assembly_Depth_Tier,Regional_Material_Sourcing_Ratio,Pack_Assembly_Capacity_MWh_per_yr,BMS_IP_Ownership_Rate,Domestic_to_FDI_Split,Job_Multiplier_per_100_EVs,EAC_Harmonized_Standards_Compliance
+Kenya,2W/3W (Boda-boda),0.385,Tier 2 (CKD),0.142,55.0,0.68,22:78,14.5,0.92
+Kenya,Public Transit Bus,0.210,Tier 1 (SKD),0.065,15.0,0.12,11:89,8.2,0.88
+Kenya,Commercial/Logistics,0.245,Tier 1 (SKD),0.080,10.0,0.25,15:85,9.0,0.85
+Kenya,Private Passenger,0.080,CBU Import,0.012,0.0,0.00,5:95,3.1,0.75
+Uganda,2W/3W (Boda-boda),0.310,Tier 2 (CKD),0.115,25.0,0.45,35:65,12.0,0.90
+Uganda,Public Transit Bus,0.545,Tier 3 (Structural),0.260,90.0,0.72,60:40,22.4,0.95
+Uganda,Commercial/Logistics,0.280,Tier 1 (SKD),0.120,15.0,0.30,40:60,10.5,0.86
+Uganda,Private Passenger,0.050,CBU Import,0.005,0.0,0.00,2:98,2.5,0.70
+Tanzania,2W/3W (Boda-boda),0.260,Tier 1 (SKD),0.090,12.0,0.15,30:70,9.8,0.82
+Tanzania,Public Transit Bus,0.185,Tier 1 (SKD),0.052,0.0,0.05,18:82,7.5,0.80
+Tanzania,Commercial/Logistics,0.190,Tier 1 (SKD),0.055,0.0,0.08,20:80,7.8,0.80
+Tanzania,Private Passenger,0.045,CBU Import,0.002,0.0,0.00,1:99,2.2,0.72
+Rwanda,2W/3W (Boda-boda),0.440,Tier 2 (CKD),0.185,70.0,0.82,25:75,16.2,0.96
+Rwanda,Public Transit Bus,0.150,Tier 1 (SKD),0.040,5.0,0.05,10:90,6.8,0.85
+Rwanda,Commercial/Logistics,0.225,Tier 1 (SKD),0.075,8.0,0.18,12:88,8.5,0.84
+Rwanda,Private Passenger,0.060,CBU Import,0.008,0.0,0.00,4:96,2.8,0.78

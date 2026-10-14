@@ -1,0 +1,17 @@
+Country,Vehicle_Class,Avg_First_Life_Months,Premature_Failure_Rate,Mini_Grid_Diversion_Rate,E_Waste_Landfill_Diversion_Rate,Reverse_Logistics_Cost_USD_per_kg,Recovered_Mineral_Val_to_Cost_Ratio
+Tanzania,2W/3W (Boda-boda/Tuk-tuk),28,0.125,0.61,0.72,2.10,0.82
+Tanzania,Public Transit Bus,68,0.080,0.85,0.94,1.65,1.10
+Tanzania,Commercial/Logistics,54,0.095,0.70,0.85,1.80,0.95
+Tanzania,Private Passenger,84,0.040,0.45,0.60,1.95,0.88
+Kenya,2W/3W (Boda-boda/Tuk-tuk),30,0.085,0.45,0.88,1.20,0.85
+Kenya,Public Transit Bus,72,0.050,0.82,0.96,0.75,1.15
+Kenya,Commercial/Logistics,58,0.060,0.65,0.89,0.95,0.92
+Kenya,Private Passenger,90,0.030,0.40,0.70,1.10,0.90
+Uganda,2W/3W (Boda-boda/Tuk-tuk),29,0.100,0.52,0.81,1.45,0.83
+Uganda,Public Transit Bus,78,0.055,0.78,0.95,0.90,1.12
+Uganda,Commercial/Logistics,60,0.070,0.60,0.84,1.15,0.90
+Uganda,Private Passenger,86,0.035,0.38,0.65,1.30,0.87
+Rwanda,2W/3W (Boda-boda/Tuk-tuk),32,0.045,0.55,0.95,1.05,0.88
+Rwanda,Public Transit Bus,74,0.035,0.80,0.98,0.85,1.14
+Rwanda,Commercial/Logistics,62,0.050,0.62,0.90,0.95,0.94
+Rwanda,Private Passenger,96,0.020,0.42,0.75,1.00,0.91

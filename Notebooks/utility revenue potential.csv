@@ -1,0 +1,33 @@
+Country,Vehicle_Class,E_Mobility_Tariff_Rate_USD_per_kWh,Annual_Incremental_Demand_MWh,Off_Peak_Charging_Share,Grid_Capacity_Utilization_Factor,Projected_Annual_Utility_Revenue_USD
+Kenya,2W/3W (Boda-boda),0.120,34500,0.38,0.42,4140000
+Kenya,Public Transit Bus,0.125,42000,0.88,0.91,5250000
+Kenya,Commercial/Logistics,0.140,18500,0.65,0.68,2590000
+Kenya,Private Passenger (4W),0.160,11200,0.78,0.82,1792000
+Rwanda,2W/3W (Boda-boda),0.090,24000,0.41,0.46,2160000
+Rwanda,Public Transit Bus,0.095,14500,0.86,0.89,1377500
+Rwanda,Commercial/Logistics,0.110,7200,0.68,0.71,792000
+Rwanda,Private Passenger (4W),0.130,4800,0.82,0.85,624000
+Uganda,2W/3W (Boda-boda),0.130,21500,0.36,0.40,2795000
+Uganda,Public Transit Bus,0.120,26000,0.90,0.94,3120000
+Uganda,Commercial/Logistics,0.145,11000,0.62,0.65,1595000
+Uganda,Private Passenger (4W),0.165,6800,0.80,0.84,1122000
+Tanzania,2W/3W (Boda-boda),0.110,19800,0.34,0.38,2178000
+Tanzania,Public Transit Bus,0.115,16000,0.85,0.88,1840000
+Tanzania,Commercial/Logistics,0.130,9400,0.60,0.62,1222000
+Tanzania,Private Passenger (4W),0.145,5100,0.74,0.77,739500
+DRC,2W/3W (Boda-boda),0.150,1850,0.30,0.28,277500
+DRC,Public Transit Bus,0.140,950,0.78,0.70,133000
+DRC,Commercial/Logistics,0.155,620,0.55,0.50,93000
+DRC,Private Passenger (4W),0.160,310,0.70,0.62,49600
+Somalia,2W/3W (Boda-boda),0.220,1200,0.25,0.22,264000
+Somalia,Public Transit Bus,0.210,410,0.70,0.65,86100
+Somalia,Commercial/Logistics,0.220,220,0.48,0.40,48400
+Somalia,Private Passenger (4W),0.230,140,0.65,0.55,32200
+Burundi,2W/3W (Boda-boda),0.150,450,0.32,0.30,67500
+Burundi,Public Transit Bus,0.140,150,0.80,0.75,21000
+Burundi,Commercial/Logistics,0.150,90,0.58,0.52,13500
+Burundi,Private Passenger (4W),0.155,50,0.72,0.68,7750
+South Sudan,2W/3W (Boda-boda),0.170,280,0.28,0.25,47600
+South Sudan,Public Transit Bus,0.160,80,0.75,0.68,12800
+South Sudan,Commercial/Logistics,0.170,45,0.50,0.45,7650
+South Sudan,Private Passenger (4W),0.180,20,0.68,0.58,3600
