@@ -1,0 +1,9 @@
+country_iso,country_name,eac_partner_state,accession_year,population,gdp_usd,currency_code,gdp_per_capita,notes
+KEN,Kenya,Republic of Kenya,2000,58636412,147300000000,KES,2512,founder member
+TZA,Tanzania,United Republic of Tanzania,2000,72563780,95700000000,TZS,1318,founder member
+UGA,Uganda,Republic of Uganda,2000,52761469,63650000000,UGX,1206,founder member
+BDI,Burundi,Republic of Burundi,2007,14729157,3430000000,BIF,233,member
+RWA,Rwanda,Republic of Rwanda,2007,14889693,16730000000,RWF,1123,member
+SSD,South Sudan,Republic of South Sudan,2016,12190000,6100000000,SSP,500,member
+COD,DR Congo,Democratic Republic of the Congo,2022,116450000,123400000000,CDF,1059,member
+SOM,Somalia,Federal Republic of Somalia,2024,20305907,13420000000,SOS,661,member

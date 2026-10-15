@@ -1,0 +1,10 @@
+country_iso,country_name,hs_code_cbu,cbu_duty_notes,hs_code_ckd_kits,hs_code_lithium_cells,lithium_tax_status,standards_bureau_code,battery_safety_benchmark,primary_ac_plug,primary_dc_fast_plug
+KEN,Kenya,8703.80.00,Reduced excise to 10% to incentivize initial asset flows.,Chapter 87 (EV Subheadings),8507.60.00,VAT Exempted,KEBS,KS ISO/IEC (UN ECE R100 aligned),Type 2 (IEC 62196),CCS2 / GB/T Dual
+TZA,Tanzania,8703.80.00,Standard external tariff brackets apply at maritime border.,General Auto Parts,8507.60.00,Standard Electronic Accumulator Tax,TBS,Draft General Compliance Rules,Unregulated (Mixed Type 2/GB/T),CCS2 / GB/T Mixed
+UGA,Uganda,8703.80.00,Subject to recurring local finance bill re-imposition panels.,Industrial Assembly Subheadings.,8507.60.00,State Regulated Channeling,UNBS,Kiira Motors Quality Matrix,Type 2 (IEC 62196),CCS2 (Mass Transit Standard)
+RWA,Rwanda,8703.80.00,Zero-rated import duty layers under strategic green investment laws.,Chapter 87 (0% Duty),8507.60.00,Zero-Rated for Clean Energy Projects,RSB,UN ECE R100 Mandated,Type 2 (IEC 62196),CCS2 / GB/T Swapping
+COD,DR Congo,8703.80.00,Standard entry rules; unaligned with regional automotive incentives.,General Components,8507.60.00,Standard Duty Enforced,OCC/DGDA,No Active Safety Standard,Unregulated,CCS2 (Industrial Clusters)
+SOM,Somalia,8703.80.00,Early transition state; initial border systems alignment.,General Components,8507.60.00,Standard Duty Enforced,Ministry of Transport,No Active Safety Standard,Unregulated,Unregulated
+SSD,South Sudan,8703.80.00,Exemptions unavailable; high structural clearance friction.,General Components,8507.60.00,Standard Duty Enforced,Customs Revenue Authority,No Active Safety Standard,Unregulated,Unregulated
+BDI,Burundi,8703.80.00,Standard tariffs enforced; no domestic EV-specific tax classifications.,General Components,8507.60.00,Standard Duty Enforced,OBR,No Active Safety Standard,Unregulated,Unregulated
+

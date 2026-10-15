@@ -1,0 +1,21 @@
+country_iso,year,vehicle_segment,propulsion_type,import_or_sales_count,cumulative_stock,est_segment_value_usd,data_source,data_confidence,notes
+KEN,2026,2-Wheelers (Motos),EV,32144,67945,51400000,KenCrave EV Tracker,High,Market leader; 90% of EV fleet in urban commercial two-wheelers.
+KEN,2026,2-Wheelers (Motos),ICE,230000,2300000,276000000,NTSA Import Registry,Medium,Dominant segment; sensitive to high fuel cost displacement pressures.
+KEN,2026,Passenger Cars,EV,1850,7768,46200000,CleanTechnica,Medium-High,Slower growth due to import duties on fully built car units.
+KEN,2026,Passenger Cars,ICE,68000,1520000,544000000,Kenya Revenue Authority,High,Largely used 7-8 year old imports dominating private entry.
+TZA,2026,2 & 3-Wheelers,EV,5800,19200,9200000,TRA Customs Forecast,Low-Medium,Gradual transition to lithium-ion battery swapping hubs.
+TZA,2026,2 & 3-Wheelers,ICE,195000,1980000,234000000,TRA Registration Data,Medium,Vast distribution networks; minimal tax barriers for ICE imports.
+UGA,2026,2-Wheelers (Motos),EV,1950,6850,3500000,Uganda Revenue Authority,Medium-Low,Driven by localized domestic solar-swapping infrastructure.
+UGA,2026,2-Wheelers (Motos),ICE,78000,1050000,93000000,Uganda Revenue Authority,High,Regional distribution channels keep ICE entry predictable.
+UGA,2026,Buses,EV,45,165,3100000,Kiira Motors Production,High,Dominated by state-backed domestic electric bus assembly (Kiira Motors).
+UGA,2026,Buses,ICE,1400,125000,98000000,Uganda Revenue Authority,Medium,Commercial public transit matatus.
+RWA,2026,2-Wheelers (Motos),EV,6200,14600,9900000,RURA Registry,Medium-High,Accelerated by stringent restriction policies on urban ICE motos in Kigali.
+RWA,2026,2-Wheelers (Motos),ICE,4500,112000,5400000,RRA Customs Data,Medium-High,Decline in new ICE entries driven by restriction frameworks.
+COD,2026,All Vehicles (Combined),EV,0,50,0,Ministry of Transport,Low,Constrained by extreme grid unreliability.
+COD,2026,All Vehicles (Combined),ICE,140000,2200000,840000000,DGDA Estimates,Low-Medium,High import potential due to mineral wealth but lacks infrastructure.
+SOM,2026,All Vehicles (Combined),EV,0,0,0,Ministry of Ports & Transport,Low,Market is entirely import-dependent on used internal combustion passenger cars.
+SOM,2026,All Vehicles (Combined),ICE,22000,340000,110000000,Ministry of Ports & Transport,Low,No active e-mobility imports or pilot programs reported.
+SSD,2026,All Vehicles (Combined),EV,0,0,0,Customs Revenue Authority,Low,Total absence of e-mobility policy frameworks.
+SSD,2026,All Vehicles (Combined),ICE,11500,190000,68000000,Customs Revenue Authority,Low,High dependence on imported diesel assets.
+BDI,2026,All Vehicles (Combined),EV,0,0,0,OBR,Medium-Low,Low purchasing power constraints EV entry.
+BDI,2026,All Vehicles (Combined),ICE,18000,210000,42000000,OBR,Medium,Transport fleet heavily dominated by second-hand ICE assets.
