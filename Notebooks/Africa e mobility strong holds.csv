@@ -1,0 +1,17 @@
+country,region,dominant_segment,ev_fleet_size,ice_import_status,tariff_exemption_years,primary_grid_renewable_pct
+Kenya,Eastern,E2W_and_eBuses,39324.0,allowed,1.0,90.0
+Tanzania,Eastern,E2W_and_E3W,10000.0,allowed,0.0,60.0
+Uganda,Eastern,E2W,3200.0,allowed,0.0,85.0
+Rwanda,Eastern,E2W,2800.0,banned_kigali_motos,2.0,55.0
+Ethiopia,Eastern,Passenger_LDV,12000.0,banned_completely,99.0,100.0
+South_Africa,Southern,Passenger_LDV,4563.0,allowed,0.0,15.0
+Malawi,Southern,E2W,450.0,allowed,1.0,90.0
+Mauritius,Southern,Passenger_LDV,1200.0,allowed,2.0,30.0
+Nigeria,Western,E2W_and_E3W,2100.0,allowed,10.0,20.0
+Ghana,Western,E2W_and_eBuses,850.0,allowed,8.0,40.0
+Benin,Western,E2W,4500.0,allowed,0.0,10.0
+Togo,Western,E2W,3800.0,allowed,0.0,15.0
+Egypt,Northern,eBuses_and_LDV,7900.0,allowed,0.0,12.0
+Morocco,Northern,Passenger_LDV,5500.0,allowed,0.0,20.0
+Senegal,Western,eBuses,350.0,allowed,0.0,15.0
+

@@ -1,0 +1,15 @@
+metric_key,numeric_value,value_type,data_unit,segment_scope
+total_continental_ev_fleet,30000.0,float,units,total_all_segments
+core_ev_market_valuation_2025,0.45,float,usd_billion,market_revenue
+core_ev_market_valuation_2026,0.69,float,usd_billion,market_revenue
+projected_ev_market_valuation_2031,5.99,float,usd_billion,market_revenue
+market_cagr_2026_2031,53.9,float,percentage,market_growth_rate
+broader_auto_ecosystem_value_2025,26.7,float,usd_billion,supply_chain_infrastructure
+projected_auto_ecosystem_value_2031,39.9,float,usd_billion,supply_chain_infrastructure
+two_three_wheeler_yoy_growth,38.0,float,percentage,micro_mobility
+micro_mobility_sales_units,70000.0,float,units,e2w_e3w_segment
+mass_transit_bus_yoy_growth,44.0,float,percentage,public_transport
+passenger_ldv_yoy_growth,28.0,float,percentage,light_duty_vehicles
+imported_ev_units_china,44358.0,float,units,supply_chain
+active_emobility_companies,208.0,float,units,corporate_ecosystem
+countries_with_active_policies,21.0,float,units,governance
