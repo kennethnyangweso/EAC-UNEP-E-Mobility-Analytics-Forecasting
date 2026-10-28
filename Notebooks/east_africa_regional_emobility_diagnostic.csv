@@ -1,0 +1,11 @@
+Segment,Vehicle_Type,Model_Name,Battery_Structure,Kenya_Price_USD,Uganda_Price_USD,Tanzania_Price_USD,Rwanda_Price_USD,Data_Baseline_Focus
+Two-Wheelers,ICE,Bajaj Boxer BM150,Not Applicable,1200,1250,1200,1300,New Retail
+Two-Wheelers,EV,Roam Air / Spiro,Shell Only (BaaS),1500,1950,2200,1600,Local Assembly / Swap ready
+Three-Wheelers,ICE,TVS King Deluxe,Not Applicable,3200,3400,3100,3500,New Retail
+Three-Wheelers,EV,Piaggio Ape E-City,Shell Only (BaaS),3500,3900,4200,3700,Swap ready Shell
+Compact Passenger,ICE,Mazda Demio (2018/19),Outright Included,10800,25500,23500,26000,8-Year Used Import
+Compact Passenger,EV,Nissan Leaf ZE1 (2018/19),Outright Included,13850,33000,36500,29500,8-Year Used Import
+Mid-Size SUV,ICE,Toyota RAV4 (2018/19),Outright Included,27000,28500,26500,29000,8-Year Used Import
+Mid-Size SUV,EV,BYD Atto 3 (New),Outright Included,34600,36500,39000,31500,Brand New Showroom
+Mass Transit Buses,ICE,Isuzu FRR 33-Seater,Not Applicable,48000,50000,45000,52000,Local Body Assembly
+Mass Transit Buses,EV,BasiGo K6 / Kiira SKD,Shell Only (PAYD),58000,58800,250000,60000,SKD Local Assembly

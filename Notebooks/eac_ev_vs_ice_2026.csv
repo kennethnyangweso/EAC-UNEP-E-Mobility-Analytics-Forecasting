@@ -1,0 +1,9 @@
+Country,Avg_EV_CAPEX_USD,Avg_ICE_CAPEX_USD,EV_Tax_Rate_Pct,ICE_Tax_Rate_Pct,EV_Energy_Cost_USD_per_100km,ICE_Fuel_Cost_USD_per_100km,Annual_EV_Maint_Cost_USD,Annual_ICE_Maint_Cost_USD,Est_Break_Even_Months,Data_Sources
+Kenya,13500,8500,10,45,1.35,12.5,180,450,24,KNBS Economic Survey 2026 / EPRA E-Mobility Guidelines
+Rwanda,12000,9000,0,50,1.1,14.0,150,480,18,Rwanda Strategic E-Mobility Policy Framework / RURA
+Tanzania,14000,8000,10,50,1.15,11.5,190,420,30,Tanzania National Budget Framework / EWURA
+Uganda,13800,8200,18,55,1.2,13.0,200,460,36,Kiira Motors Ecosystem Database / Ministry of Energy
+DR Congo,22000,7500,35,35,4.5,16.0,400,600,60,IEA Global EV Outlook 2026
+Burundi,19500,7000,40,40,3.5,21.0,450,650,60,UNEP Low-Emission Transport / EAC Profiles
+South Sudan,23000,8000,45,45,5.2,18.5,500,700,99,EAC Infrastructure & Integration Sector Registry
+Somalia,18500,6500,30,30,7.1,13.5,380,520,99,Africa E-Mobility Alliance (AfEMA) Country Readiness

@@ -1,0 +1,10 @@
+Country,Hydropower (%),Fossil Fuels (%),Other Renewables (%),Average Cost (USD per kWh),Primary Verifiable Data Source
+DR Congo,98.20,1.10,0.70,0.08,World Bank Mission 300 Network; EAPP Regional Operational Database
+Tanzania,61.45,31.85,6.70,0.10,EWURA Sub-Sector Performance Review; TanzaniaInvest Hydropower Project Tracking
+Uganda,90.40,2.90,6.70,0.14,EREA Electricity Portfolio Review; IEA Uganda Energy Balance Profiles
+Burundi,78.50,14.50,7.00,0.16,World Bank Mission 300 Rural Interventions; EAPP Transmission Wheeling Matrices
+Rwanda,42.00,23.00,35.00,0.19,World Bank RETRADE-EA Regional Portfolios; EREA National Utility Integration Frameworks
+Kenya,22.65,8.34,69.01,0.24,EPRA Energy & Petroleum Statistics; Low-Carbon Power - Kenya Profile
+South Sudan,0.00,94.60,5.40,0.39,World Bank SDG 7.1.1 Access Indicator; EAPP Grid Operations Dossiers
+Somalia,0.00,82.00,18.00,0.52,World Bank Horn of Africa Integration Briefs; Private-Public Decentralized Solar Audits
+

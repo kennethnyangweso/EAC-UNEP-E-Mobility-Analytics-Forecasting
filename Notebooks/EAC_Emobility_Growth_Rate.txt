@@ -1,0 +1,9 @@
+EAC Partner State,2020 Stock,2022 Stock,2024 Stock,2026 Stock (Mid-Year),Principal Sources & Structural Context
+Kenya,300,1378,12500,39324,"NTSA Registers, Kenya E-Mobility Policy (2026). Massive market scaling of commercial e-2Ws & private cars."
+Uganda,50,1200,7500,33000,"IEA Global EV Outlook (2026) / Spiro Networks. Explosive 2025 growth driven by financed e-boda fleets."
+Tanzania,20,400,2500,10000,"Agora Verkehrswende (2025). Dominated by e-tricycles (tuk-tuks) and commercial transit."
+Rwanda,30,520,2200,6500,"Rwanda MoE, Ampersand Trackers. Accelerated by strict Kigali ICE motorbike restrictions."
+DR Congo (DRC),0,0,10,150,"Afreximbank E-Mobility Mining Strategy. Fleet comprises localized mineral transport prototypes and light e-delivery pilots."
+Burundi,0,0,5,80,"Burundi NDC Climate Actions Report (2025). Transitioning under early donor-funded solar charging micro-fleets."
+South Sudan,0,0,0,10,"NCTTCA Northern Corridor GHG Baseline. Off-grid humanitarian trial applications and solar logistics transport."
+Somalia,0,0,0,5,"EAC Logistical Strategy Placements (2026). Limited to early institutional test deployments in metropolitan Mogadishu."

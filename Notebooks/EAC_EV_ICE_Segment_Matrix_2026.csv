@@ -1,0 +1,17 @@
+Country,Propulsion Type,2-Wheelers (2W),3-Wheelers (3W),Public Buses,Passenger / Commercial,Private Vehicles,Total,Data Source
+Kenya,EV,36970.0,1180,750,248,176,39324,National Transport and Safety Authority (NTSA) & Revised AfEMA Baseline
+Kenya,ICE,1550000.0,110000,105000,64000,820000,3225000,National Transport and Safety Authority (NTSA) & Revised AfEMA Baseline
+Uganda,EV,31850.0,540,480,90,40,33000,Ministry of Works and Transport & Uganda Revenue Authority (URA)
+Uganda,ICE,1120000.0,42000,68000,215000,440000,1885000,Ministry of Works and Transport & Uganda Revenue Authority (URA)
+Rwanda,EV,6120.0,190,110,35,45,6500,Rwanda Utilities Regulatory Authority (RURA) Fleet Database
+Rwanda,ICE,165000.0,14000,12000,41000,78000,310000,Rwanda Utilities Regulatory Authority (RURA) Fleet Database
+Tanzania,EV,1250.0,3840,45,35,30,5200,Tanzania Revenue Authority (TRA) & Land Transport Regulatory Authority (LATRA)
+Tanzania,ICE,980000.0,185000,120000,460000,680000,2425000,Tanzania Revenue Authority (TRA) & Land Transport Regulatory Authority (LATRA)
+DR Congo,EV,110.0,0,25,320,45,500,Ministry of Transport (DRC) & EAC Corridor Diagnostic Profiles
+DR Congo,ICE,440000.0,65000,95000,880000,1120000,2600000,Ministry of Transport (DRC) & EAC Corridor Diagnostic Profiles
+Somalia,EV,0.0,95,0,0,5,100,Ministry of Transport and Civil Aviation Baseline Assessment
+Somalia,ICE,85000.0,38000,14000,45000,92000,274000,Ministry of Transport and Civil Aviation Baseline Assessment
+South Sudan,EV,0.0,0,0,40,10,50,National Revenue Authority & Institutional Border Registries
+South Sudan,ICE,62000.0,19000,8500,31000,48000,168500,National Revenue Authority & Institutional Border Registries
+Burundi,EV,35.0,15,0,0,0,50,OBR (Office Burundais des Recettes) & Micro-Mobility Pilot Audits
+Burundi,ICE,74000.0,22000,11500,28000,54000,189500,OBR (Office Burundais des Recettes) & Micro-Mobility Pilot Audits

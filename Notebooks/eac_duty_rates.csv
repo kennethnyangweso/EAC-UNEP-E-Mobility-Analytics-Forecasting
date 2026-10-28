@@ -1,0 +1,9 @@
+Country,Import Duty (ICE),Import Duty (EV),Excise Duty (ICE),Excise Duty (EV),VAT Rate (ICE),VAT Rate (EV),Data Source / Legal Act Reference
+Kenya,25.0,0.0,20.0,10.0,16.0,16.0,Kenya Revenue Authority (KRA) Finance Act & Ministry of Roads and Transport E-Mobility Study
+Tanzania,25.0,10.0,15.0,0.0,18.0,18.0,Tanzania Revenue Authority (TRA) National Budget Fiscal Reforms
+Uganda,25.0,25.0,20.0,20.0,18.0,18.0,Uganda Revenue Authority (URA) VAT and Income Tax Amendment Acts & STI National Strategy
+Rwanda,25.0,0.0,10.0,0.0,18.0,0.0,Rwanda Revenue Authority (RRA) Law No 049/2023 on Value Added Tax & Ministry of Environment Framework
+Burundi,30.0,0.0,15.0,0.0,18.0,18.0,Office Burundais des Recettes (OBR) National Finance Law Gazette
+DR Congo,20.0,0.0,10.0,0.0,16.0,0.0,Direction Générale des Douanes et Accises (DGDA) Green Infrastructure Decree
+Somalia,20.0,0.0,0.0,0.0,5.0,0.0,Ministry of Finance Tariff Schedule and Customs Act Reform
+South Sudan,25.0,0.0,10.0,0.0,10.0,10.0,National Revenue Authority (NRA) Annual Financial Bill Framework

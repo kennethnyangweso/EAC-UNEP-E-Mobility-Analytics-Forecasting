@@ -1,0 +1,24 @@
+Rank,Country/Territory,Estimated Annual EV Sales,Estimated Cumulative EV Fleet Stock,Primary Volume Segments,Explicit Institutional Data Sources
+1,China,13750000,48500000,"Mass-market passenger cars, SUVs, and heavy electric buses.",IEA Global EV Outlook / CAAM (China Association of Automobile Manufacturers)
+2,United States,1500000,6200000,"Premium SUVs, large sedans, and light-duty pickup trucks.",IEA Data Explorer / Argonne National Laboratory EV Tracking
+3,Germany,570000,3400000,Enterprise corporate fleets and executive premium commuter cars.,Ember EV Tracker / KBA (Kraftfahrt-Bundesamt Federal Motor Transport Authority)
+4,United Kingdom,550000,2300000,Company fleet leases and compact urban crossovers.,Ember EV Tracker / SMMT (Society of Motor Manufacturers and Traders)
+5,France,450000,1900000,"Hatchbacks and localized low-income ""social lease"" models.",IEA Global EV Outlook / CCFA (Comité des Constructeurs Français d'Automobiles)
+6,India,150000,1500000,Note: Crosses 4.5M+ units if 2-wheelers and 3-wheelers are included.,Siam India / Ministry of Road Transport & Highways (Vahan Dashboard)
+7,Norway,115000,1100000,High-penetration passenger cars (97% of all new car sales).,Our World in Data / OFV (Opplysningsrådet for Veitrafikken)
+8,South Korea,140000,850000,Tech-dense domestic sedans and light commercial vehicles.,IEA Data Explorer / KAMA (Korea Automobile Manufacturers Association)
+9,Canada,135000,780000,Cold-weather rated AWD crossovers concentrated in BC and Quebec.,Ember EV Tracker / Statistics Canada (StatCan) Vehicle Registrations
+10,Netherlands,82000,690000,Premium compact hatchbacks backed by the densest charger network.,IEA Global EV Outlook / RVO (Netherlands Enterprise Agency)
+11,Sweden,85000,620000,"Corporate-leased wagons, SUVs, and hybrid variants.",Ember EV Tracker / Mobility Sweden
+12,Japan,90000,580000,"Dominated by localized, lower-cost Kei micro-EV urban options.",IEA Data Explorer / JADA (Japan Automobile Dealers Association)
+13,Italy,78000,440000,City micro-cars accelerating via new regional low-emission zones.,Ember EV Tracker / UNRAE (Unione Nazionale Rappresentanti Autoveicoli Esteri)
+14,Spain,75000,390000,Fleet logistics vehicles and compact passenger cars.,Ember EV Tracker / ANFAC (Asociación Española de Fabricantes de Automóviles)
+15,Belgium,70000,380000,Heavily corporate company-car driven transition.,IEA Data Explorer / FEBIAC (Fédération Belge de l'Automobile et du Cycle)
+16,Australia,68000,310000,High consumer shift toward mid-sized Chinese-manufactured SUVs.,IEA Data Explorer / VFACTS National Bureau of Statistics
+17,Brazil,125000,260000,"Latin America's volume heavyweight, driven by cheap hatchbacks.",IEA Data Explorer / ABVE (Associação Brasileira do Veículo Elétrico)
+18,Switzerland,48000,250000,Luxury premium all-wheel-drive configurations.,IEA Data Explorer / Auto-Suisse Swiss Importers Association
+19,Thailand,52000,220000,ASEAN assembly corridor; dominated by battery-electric sedans.,IEA Data Explorer / Federation of Thai Industries (FTI) Automotive Division
+20,Ethiopia,45000,115000,Africa's leader due to its total ICE passenger vehicle import ban,
+
+
+

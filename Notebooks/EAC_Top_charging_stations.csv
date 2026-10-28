@@ -1,0 +1,10 @@
+Manufacturer,Country,Hub/Town Focus,Station Category,Approx. Network Count,Primary Station Access,Primary Verification Resource
+Roam,Kenya,Nairobi,Swapping / Service Hubs,5,Public,Roam Infrastructure
+BasiGo,Kenya,Nairobi,DC Fast Charging Depots,10,Commercial Fleet,BasiGo Charging
+BasiGo,Rwanda,Kigali,DC Fast Charging Depots,2,Commercial Fleet,BasiGo Charging
+Ampersand,Rwanda,Kigali,Automated Battery Swapping,15,Public,Ampersand Energy
+Ampersand,Kenya,Nairobi,Automated Battery Swapping,12,Public,Ampersand Energy
+Spiro,Kenya,Nairobi,Smart Battery Lockers,85,Public,Spiro Grid
+Spiro,Rwanda,Kigali,Smart Battery Lockers,60,Public,Spiro Grid
+Kiira Motors,Uganda,Jinja,Captive Fleet Chargers,2,Plant Testing,Kiira Motors Systems
+

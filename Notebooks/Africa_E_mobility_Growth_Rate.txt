@@ -1,0 +1,5 @@
+Year,Total Cumulative Africa EV Stock (units),Average Annual Growth Rate (%),Core Continental Growth Drivers & Market Triggers
+2020,8500,Baseline,Primarily concentrated in luxury passenger vehicles in South Africa, alongside foundational micro-pilots in North and East Africa.
+2022,21000,57.1,First widespread commercial asset-financing programs scale up in East Africa; initial battery-swapping networks deploy.
+2024,68000,111.4,The Ethiopia Shift: Ethiopia implements a world-first outright ban on internal combustion engine (ICE) passenger vehicle imports, forcing a structural migration to EVs.
+2026,255000,150.8,The Assembly Boom: Localized production lines scale across regional hubs (e.g., South Africa's 2026 production rebates, Morocco's $5.6B battery factory, and Kenya/Uganda e-bike assembly).
